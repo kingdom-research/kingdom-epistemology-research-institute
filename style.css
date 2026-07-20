@@ -50,3 +50,10 @@ h2{font-weight:700;letter-spacing:.5px}
 
 .card a{text-decoration:none;color:#0B2E59}
 .card a:hover{color:#C9A227}
+
+body{background:#f7f8fb}
+.hero{padding:140px 0;background:linear-gradient(135deg,#08264a,#154b8b);text-align:center}
+.hero h1{font-size:3.8rem;max-width:900px;margin:auto}
+.eyebrow{font-size:.9rem;letter-spacing:3px;color:#d8b24a;margin-bottom:20px}
+.btn{margin:8px;display:inline-block}
+.card{background:#fff;border-radius:16px;box-shadow:0 12px 30px rgba(0,0,0,.08)}
