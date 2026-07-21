@@ -66,3 +66,5 @@ body{background:#f7f8fb}
 
 ul{line-height:2}
 main h2{color:#0B2E59;margin-top:2rem}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px}
