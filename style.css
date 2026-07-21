@@ -57,3 +57,9 @@ body{background:#f7f8fb}
 .eyebrow{font-size:.9rem;letter-spacing:3px;color:#d8b24a;margin-bottom:20px}
 .btn{margin:8px;display:inline-block}
 .card{background:#fff;border-radius:16px;box-shadow:0 12px 30px rgba(0,0,0,.08)}
+
+.hero{padding:8rem 0}
+.section{padding:5rem 0}
+.card{border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,.08);transition:.3s}
+.card:hover{transform:translateY(-6px)}
+.btn{display:inline-block;margin-top:1rem}
