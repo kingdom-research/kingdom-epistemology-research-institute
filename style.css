@@ -63,3 +63,6 @@ body{background:#f7f8fb}
 .card{border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,.08);transition:.3s}
 .card:hover{transform:translateY(-6px)}
 .btn{display:inline-block;margin-top:1rem}
+
+ul{line-height:2}
+main h2{color:#0B2E59;margin-top:2rem}
