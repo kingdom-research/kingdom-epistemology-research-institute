@@ -73,3 +73,6 @@ a{text-decoration:none}
 a:hover{text-decoration:underline}
 .card h2{margin-bottom:1rem}
 p{line-height:1.7}
+.top{background:#0B2E59;padding:16px}.top a{color:#fff;margin:0 10px;text-decoration:none}
+.footer{background:#0B2E59;color:#fff;padding:40px 0;margin-top:60px}
+.footer h3{color:#C9A227}
