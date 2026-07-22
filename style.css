@@ -4,3 +4,4 @@ body{margin:0;font-family:Arial} .top{background:#0B2E59;padding:18px}.wrap{widt
 .hero{background:url('assets/images/branding/hero-banner.png') center/cover no-repeat;min-height:520px;}
 
 body{font-family:Arial;margin:0}header{background:#0b2e59;color:#fff;padding:20px}section{padding:30px}
+body{font-family:Arial;margin:0}.topbar{background:#0b2e59;color:#fff;padding:16px}.topbar nav a{color:#fff;margin:0 10px}.hero img{width:100%;display:block}.container{padding:30px}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}.card{padding:30px;background:#f4f4f4;border-radius:10px;text-align:center}footer{background:#0b2e59;color:#fff;padding:20px;text-align:center}
