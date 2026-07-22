@@ -2,3 +2,5 @@ body{margin:0;font-family:Arial} .top{background:#0B2E59;padding:18px}.wrap{widt
 .hero-banner{background:url('assets/images/branding/banner.png') center/cover;height:320px;border-radius:12px;}
 
 .hero{background:url('assets/images/branding/hero-banner.png') center/cover no-repeat;min-height:520px;}
+
+body{font-family:Arial;margin:0}header{background:#0b2e59;color:#fff;padding:20px}section{padding:30px}
